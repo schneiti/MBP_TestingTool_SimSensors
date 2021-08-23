@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hum>
+  <hum30a>
+    <Metadaten>
+      <Frequenz>500</Frequenz>
+      <Maxmimale-Aenderungsrate>0.07</Maxmimale-Aenderungsrate>
+    </Metadaten>
+    <Sensor-Daten>[51.23, 51.3, 51.36, 51.41, 51.44, 51.45, 51.47, 51.53, 51.55, 51.59, 51.62, 51.65, 51.66, 51.66, 51.68, 51.71, 51.72, 83.16, 51.86, 51.86, 51.92]</Sensor-Daten>
+  </hum30a>
+</hum>

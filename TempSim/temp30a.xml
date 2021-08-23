@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<temp>
+  <temp30a>
+    <Metadaten>
+      <Frequenz>1000</Frequenz>
+      <Maxmimale-Aenderungsrate>0.025</Maxmimale-Aenderungsrate>
+    </Metadaten>
+    <Sensor-Daten>[22.65, 22.67, 22.68, 22.7, 22.72, 22.74, 22.75, 22.77, 22.78, 22.8, 22.81, 22.82, 22.83, 22.84, 22.86, 22.86, 22.88, 22.9, 22.91, 65.23, 22.92]</Sensor-Daten>
+  </temp30a>
+</temp>

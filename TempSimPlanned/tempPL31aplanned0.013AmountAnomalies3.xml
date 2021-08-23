@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tempPl>
+  <tempPL31aplanned0.013AmountAnomalies3>
+    <Metadaten>
+      <Frequenz>1000</Frequenz>
+      <Maxmimale-Aenderungsrate>0.025</Maxmimale-Aenderungsrate>
+      <Simulations-Zeit>0.01</Simulations-Zeit>
+      <Anzahl-Events>3</Anzahl-Events>
+      <Anzahl-Ausreisser>3</Anzahl-Ausreisser>
+    </Metadaten>
+    <Sensor-Daten>[22.86, 22.86, 22.87, 79.61, 22.89, 22.9, 22.91, 22.93, 22.93, 22.95, 22.96, 66.66, 22.99, 22.99, 22.99, 22.99, 23.0, 23.01, 69.28, 22.98, 22.96, 22.95, 22.94, 22.93, 22.92, 22.92, 22.91, 22.9, 22.89, 22.88, 22.86, 22.84, 22.82, 22.82, 22.82, 22.81]</Sensor-Daten>
+  </tempPL31aplanned0.013AmountAnomalies3>
+</tempPl>
